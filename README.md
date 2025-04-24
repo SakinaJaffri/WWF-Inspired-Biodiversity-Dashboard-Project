@@ -1,5 +1,10 @@
 # 🌍 WWF-Inspired Biodiversity Dashboard Project
 ![LPI-Dashboard](https://github.com/user-attachments/assets/4b07dd83-929d-4727-b020-bb81187a26d2)
+## 🌐 View the Dashboard Live
+
+👉 [Explore the Tableau Dashboard](https://public.tableau.com/shared/WDCZ6ZNZZ?:display_count=n&:origin=viz_share_link)
+
+Built using Tableau Public, this dashboard visualizes global biodiversity trends using real-world conservation data from the Living Planet Index.
 
 ## 💡 Project Inspiration
 Today, our planet is facing an unprecedented biodiversity crisis. According to WWF’s Living Planet Report, global populations of mammals, birds, amphibians, reptiles, and fish have declined by an average of **69% since 1970**. Habitat destruction, climate change, pollution, and poaching are accelerating these losses at alarming rates.
