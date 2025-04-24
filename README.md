@@ -12,9 +12,9 @@ Today, our planet is facing an unprecedented biodiversity crisis. According to W
 This project was born from my concern for these issues, and a desire to combine **data analytics** with **conservation awareness**. Through this dashboard, I’ve tried to take a small but meaningful step — transforming real-world data into insights that inform, inspire, and encourage dialogue.
 
 It reflects:
-- exploring and communicating patterns through data.
-- using data to understand public awareness and behavioral trends.
-- turning numbers into nature stories that matter.
+- Exploring and communicating patterns through data.
+- Using data to understand public awareness and behavioral trends.
+- Turning numbers into nature stories that matter.
 
 ## 📦 Datasets Used
 **Primary:**
