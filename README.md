@@ -72,4 +72,4 @@ If you're from a conservation or data organization and notice areas of concern o
 
 ---
 
-📘 Built by Syeda Sakina Jaffri — A data analyst passionate about storytelling, sustainability, and impactful design.
+📘 Built by Syeda Sakina Jaffri 
