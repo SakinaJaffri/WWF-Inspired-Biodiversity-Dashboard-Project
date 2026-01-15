@@ -5,6 +5,8 @@
 👉 [Explore the Tableau Dashboard](https://public.tableau.com/shared/WDCZ6ZNZZ?:display_count=n&:origin=viz_share_link)
 
 Built using Tableau Public, this dashboard visualizes global biodiversity trends using real-world conservation data from the Living Planet Index.
+This project was meaningful not only because it built my technical and visualization skills but also because it connected data to a cause that matters deeply to me. 
+
 
 ## 💡 Project Inspiration
 Today, our planet is facing an unprecedented biodiversity crisis. According to WWF’s Living Planet Report, global populations of mammals, birds, amphibians, reptiles, and fish have declined by an average of **69% since 1970**. Habitat destruction, climate change, pollution, and poaching are accelerating these losses at alarming rates.
